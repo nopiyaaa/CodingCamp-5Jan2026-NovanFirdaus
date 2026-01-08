@@ -1,4 +1,5 @@
 # 📝 To-Do List Web Application
+![Preview Aplikasi To-Do List](./img/Screenshot from 2026-01-08 22-46-40.png
 
 Tugas Mini Project untuk **CodingCamp Software Engineering** oleh RevoU. Aplikasi ini memungkinkan pengguna untuk mengelola tugas harian dengan antarmuka yang bersih dan responsif.
 
